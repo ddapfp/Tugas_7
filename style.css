@@ -1,0 +1,48 @@
+/* style.css */
+body {
+    font-family: sans-serif;
+    margin: 20px;
+}
+
+h2 {
+    color: #333;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+table, th, td {
+    border: 1px solid #999;
+}
+
+th, td {
+    padding: 10px;
+    text-align: left;
+    vertical-align: top;
+}
+
+th {
+    background-color: #f2f2f2;
+}
+
+.keterangan .nama {
+    color: #E91E63;
+    font-weight: bold;
+}
+
+.keterangan .matkul {
+    color: #3F51B5;
+    font-weight: bold;
+}
+
+form {
+    margin-bottom: 20px;
+}
+
+input, select, button {
+    padding: 8px;
+    margin: 5px 10px 5px 0;
+}
